@@ -1,3 +1,3 @@
 Comment 2
 Comment 4
-Comment 5 - master
+Comment 7 - Vikas & Salik - Angular trainers
